@@ -2,4 +2,4 @@
 
 설치 파일은 Releases에 있습니다.
 
-https://github.com/HS2949/JR_Volume-release/releases/download/v1.5/floating-volume-1.5.apk
+https://github.com/HS2949/JR_Volume-release/releases/download/v1.6/floating-volume-1.6.apk
